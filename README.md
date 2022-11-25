@@ -16,7 +16,7 @@ millRabTest - Implementation of Miller-Rabin algorithm for checking number prima
 
 coprime - This function checks are two numbers co-prime or not.
 
-*Additional functions, with no current usage. They were created to allow the program's work with numbers bigger than 64 bit in future. There is a need to expand them to work correctly.
+*Additional functions, with no current usage. They were created to allow the program's work with numbers bigger than 64 bit in future. There is a need to expand them to work correctly:
 
 modInv - executes the modular multiplicative inverse.
 
